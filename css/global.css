@@ -393,6 +393,10 @@
     padding-left: 40px;
 }
 
+#service-blocks div:hover{
+    background-color: #da9696;
+}
+
 #service-blocks div p {
     margin-top: 10px;
     margin-right: 40px;
